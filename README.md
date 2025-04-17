@@ -4,7 +4,9 @@ This was a wonderful project where I got to apply multiple core frontend skills 
 
 ## 🔗 Live Preview
 
-[View Live Site]([https://your-deployment-link.com](https://rukhsarpathan.github.io/Product-preview-card-component/))
+## 🔗 Live Preview
+
+[View Live Site](https://rukhsarpathan.github.io/Product-preview-card-component/)
 
 ## 🛠 Built With
 
